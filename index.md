@@ -1,37 +1,1825 @@
-## Welcome to GitHub Pages
+## Monkafenixjaro
 
-You can use the [editor on GitHub](https://github.com/winuxwinfree/mfjwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!doctype html>
+<html lang="es-es" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="canonical" href="https://fenixlinux.com/">
+        <base href="https://fenixlinux.com/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="twitter:card" content="summary" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="My portal" />
+	<meta property="og:url" content="https://fenixlinux.com/" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Inicio</title>
+    <script data-cfasync="false">var QUIX_ROOT_URL = "https://fenixlinux.com/";window.FILE_MANAGER_ROOT_URL = "https://fenixlinux.com/images/";</script>
+	<link href="https://fenixlinux.com/?format=amp" rel="amphtml" />
+	<link href="/images/23638358-ilustracin-de-negro-icono-del-pjaro-aislado-en-un-fondo-blanco4.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/libraries/quix/assets/css/qxbs.css?ver=2.7.6.1" rel="stylesheet" async="true" />
+	<link href="/libraries/quix/assets/css/qxkit.css?ver=2.7.6.1" rel="stylesheet" async="true" />
+	<link href="/libraries/quix/assets/css/quix.css?ver=2.7.6.1" rel="stylesheet" async="true" />
+	<link href="/libraries/quix/assets/css/qxi.css?ver=2.7.6.1" rel="stylesheet" async="true" />
+	<link href="/media/quix/frontend/css/page-2-frontend-2.7.6.1.css?ver=2.7.6.1" rel="stylesheet" async="async" type="text/css" media="all" />
+	<link href="/libraries/quix/app/frontend/elements/animated-headline/animated-headline.css?ver=2.7.6.1" rel="stylesheet" async="async" type="text/css" media="all" />
+	<link href="/libraries/quix/app/frontend/elements/advanced-heading/advanced-heading.css?ver=2.7.6.1" rel="stylesheet" async="async" type="text/css" media="all" />
+	<link href="/cache/com_templates/templates/shaper_helixultimate/0838f8139fee2c79813640cbcdd905a3.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+@media screen and (min-width: 768px) and (max-width: 992px){  } @media screen and (max-width: 767px) {  } 
+body.site {background-image: url(/images/1.jpg);background-repeat: repeat;background-size: inherit;background-attachment: fixed;background-position: 0 0;}
+.sp-module-title{
+display: none;
+}
+.sp-module-content-top{
+margin-top: -90px;
+text-align: center;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+}
+body{font-family: 'Helvetica', sans-serif;font-size: 15px;}
 
-```markdown
-Syntax highlighted code block
+h1{font-family: 'Arial', sans-serif;}
 
-# Header 1
-## Header 2
-### Header 3
+.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Arial', sans-serif;}
 
-- Bulleted
-- List
+.logo-image {height:36px;}.logo-image-phone {height:36px;}
+.logo-image {height:36px;}.logo-image-phone {height:36px;}
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
 
-1. Numbered
-2. List
+        a.flag {text-decoration:none;}
+        a.flag img {vertical-align:middle;padding:0;margin:0;border:0;display:inline;height:32px;opacity:0.8;}
+        a.flag:hover img {opacity:1;}
+        a.flag span {margin-right:5px;font-size:15px;vertical-align:middle;}
+    
+@media screen and (min-width: 768px) and (max-width: 992px){  } @media screen and (max-width: 767px) {  } 
+	</style>
+	<script src="/media/jui/js/jquery.min.js?71904bee473daac05123adb1c01974c2" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?71904bee473daac05123adb1c01974c2" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?71904bee473daac05123adb1c01974c2" type="text/javascript"></script>
+	<script src="/media/djextensions/jquery-easing/jquery.easing.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_djimageslider/assets/js/slider.js?v=4.1.1" type="text/javascript"></script>
+	<script src="/libraries/quix/assets/js/qxkit.js?ver=2.7.6.1" type="text/javascript"></script>
+	<script src="/libraries/quix/assets/js/quix.js?ver=2.7.6.1" type="text/javascript"></script>
+	<script src="/media/quix/frontend/js/page-2-frontend-2.7.6.1.js?ver=2.7.6.1" type="text/javascript"></script>
+	<script src="/libraries/quix/app/frontend/elements/animated-headline/script.js?ver=2.7.6.1" type="text/javascript"></script>
+	<script src="/templates/shaper_helixultimate/js/popper.min.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helixultimate/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helixultimate/js/main.js" type="text/javascript"></script>
+	<script type="text/javascript">
+template="shaper_helixultimate";
+	</script>
+	<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"Organization","name":"My portal","url":"https:\/\/fenixlinux.com\/"}
+	</script>
+    </head>
+    <body class="site helix-ultimate com-quix view-page layout-default task-none itemid-101 es-es ltr sticky-header layout-boxed offcanvas-init offcanvs-position-left">
+    
+    <div class="body-wrapper">
+        <div class="body-innerwrapper">
+            <div id="sp-top-bar"><div class="container"><div class="container-inner"><div class="row"><div id="sp-top1" class="col-lg-6"><div class="sp-column text-center text-lg-left"><ul class="social-icons"><li class="social-icon-facebook"><a target="_blank" href="https://www.facebook.com/Fenix-OS-105770447831456" aria-label="facebook"><span class="fa fa-facebook" aria-hidden="true"></span></a></li><li class="social-icon-twitter"><a target="_blank" href="https://twitter.com/fenixlinuxos" aria-label="twitter"><span class="fa fa-twitter" aria-hidden="true"></span></a></li><li><a target="_blank" href="https://www.youtube.com/channel/UCJlzAkI2q4qnG09QeyJ21fg/" aria-label="Youtube"><span class="fa fa-youtube" aria-hidden="true"></span></a></li><li class="social-icon-instagram"><a target="_blank" href="https://www.instagram.com/fenixlinux/" aria-label="Instagram"><span class="fa fa-instagram" aria-hidden="true"></span></a></li><li class="social-icon-custom"><a target="_blank" href="https://discord.com/invite/cVFjzEn"><span class="fa fa-comment" aria-hidden="true"></span></a></li></ul></div></div><div id="sp-top2" class="col-lg-6"><div class="sp-column text-center text-lg-right"><ul class="sp-contact-info"><li class="sp-contact-email"><span class="fa fa-envelope" aria-hidden="true"></span> <a href="mailto:contact@fenixlinux.com">contact@fenixlinux.com</a></li></ul></div></div></div></div></div></div><header id="sp-header"><div class="container"><div class="container-inner"><div class="row"><div id="sp-logo" class="col-12 col-lg-3"><div class="sp-column"><a id="offcanvas-toggler" aria-label="Navigation" class="offcanvas-toggler-left" href="#"><span class="fa fa-bars" aria-hidden="true" title="Navigation"></span></a><div class="logo"><a href="/"><img class="logo-image d-none d-lg-inline-block" src="/images/fenixlogo213.png" alt="My portal"><img class="logo-image-phone d-inline-block d-lg-none" src="/images/photo_2020-05-22_23-50-21.jpg" alt="My portal"></a></div></div></div><div id="sp-menu" class="d-none d-lg-block col-lg-9"><div class="sp-column"><nav class="sp-megamenu-wrapper" role="navigation"><ul class="sp-megamenu-parent menu-animation-fade-up d-none d-lg-block"><li class="sp-menu-item current-item active"><a  href="/" >Inicio</a></li><li class="sp-menu-item"><a  href="/que-tiene-de-especial" >Funciones</a></li><li class="sp-menu-item"><a  href="/pc" >PC</a></li><li class="sp-menu-item sp-has-child"><a  href="/pi" >Pi</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/pi/kde" >Plasmunity</a></li><li class="sp-menu-item"><a  href="/pi/fenixmanjaro" >Swiftjaro</a></li><li class="sp-menu-item"><a  href="/pi/swiftjaro-xp" >Swiftjaro XP</a></li><li class="sp-menu-item"><a  href="https://fenixlinux.com/pi" >Mas</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/roadmap" >Roadmap</a></li><li class="sp-menu-item"><a  href="/changelog" >Changelog</a></li><li class="sp-menu-item"><a  href="/super-guia" >Manual Linux</a></li><li class="sp-menu-item"><a  href="/comunidad" >Comunidad</a></li><li class="sp-menu-item"><a  href="/donar" >Donar</a></li></ul></nav></div></div></div></div></div></header>            <section id="sp-section-1"><div class="row"><div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="container"><div class="container-inner"><div class="row"><main id="sp-component" class="col-lg-12 " role="main"><div class="sp-column "><div id="system-message-container">
+	</div>
+<div class="sp-module-content-top clearfix"><div class="sp-module "><h3 class="sp-module-title">🌐</h3><div class="sp-module-content">
 
-**Bold** and _Italic_ and `Code` text
+<script type="text/javascript">
+/* <![CDATA[ */
+function GTranslateGetCurrentLang() {var keyValue = document.cookie.match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;if(typeof ga!='undefined'){ga('send', 'event', 'GTranslate', lang, location.hostname+location.pathname+location.search);}else{if(typeof _gaq!='undefined')_gaq.push(['_trackEvent', 'GTranslate', lang, location.hostname+location.pathname+location.search]);}var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className=='goog-te-combo')teCombo=sel[i];if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+/* ]]> */
+</script>
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'es', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
 
-[Link](url) and ![Image](src)
-```
+<a href="#" onclick="doGTranslate('es|es');return false;" title="Español" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/es.png" height="32" width="32" alt="es" /></a><a href="#" onclick="doGTranslate('es|zh-CN');return false;" title="简体中文" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/zh-CN.png" height="32" width="32" alt="zh-CN" /></a><a href="#" onclick="doGTranslate('es|en');return false;" title="English" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/en.png" height="32" width="32" alt="en" /></a><a href="#" onclick="doGTranslate('es|fr');return false;" title="Français" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/fr.png" height="32" width="32" alt="fr" /></a><a href="#" onclick="doGTranslate('es|de');return false;" title="Deutsch" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/de.png" height="32" width="32" alt="de" /></a><a href="#" onclick="doGTranslate('es|it');return false;" title="Italiano" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/it.png" height="32" width="32" alt="it" /></a><a href="#" onclick="doGTranslate('es|ja');return false;" title="日本語" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/ja.png" height="32" width="32" alt="ja" /></a><a href="#" onclick="doGTranslate('es|pt');return false;" title="Português" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/pt.png" height="32" width="32" alt="pt" /></a><a href="#" onclick="doGTranslate('es|ru');return false;" title="Русский" class="flag nturl notranslate"><img src="/modules/mod_gtranslate/tmpl/lang/32/ru.png" height="32" width="32" alt="ru" /></a><br/><select onchange="doGTranslate(this);" class="notranslate"><option value="">Select Language</option><option style="font-weight:bold;" value="es|es">Español</option><option  value="es|af">Afrikaans</option><option  value="es|sq">Shqip</option><option  value="es|ar">العربية</option><option  value="es|hy">Հայերեն</option><option  value="es|az">Azərbaycan dili</option><option  value="es|eu">Euskara</option><option  value="es|be">Беларуская мова</option><option  value="es|bg">Български</option><option  value="es|ca">Català</option><option  value="es|zh-CN">简体中文</option><option  value="es|zh-TW">繁體中文</option><option  value="es|hr">Hrvatski</option><option  value="es|cs">Čeština‎</option><option  value="es|da">Dansk</option><option  value="es|nl">Nederlands</option><option  value="es|en">English</option><option  value="es|et">Eesti</option><option  value="es|tl">Filipino</option><option  value="es|fi">Suomi</option><option  value="es|fr">Français</option><option  value="es|gl">Galego</option><option  value="es|ka">ქართული</option><option  value="es|de">Deutsch</option><option  value="es|el">Ελληνικά</option><option  value="es|ht">Kreyol ayisyen</option><option  value="es|iw">עִבְרִית</option><option  value="es|hi">हिन्दी</option><option  value="es|hu">Magyar</option><option  value="es|is">Íslenska</option><option  value="es|id">Bahasa Indonesia</option><option  value="es|ga">Gaelige</option><option  value="es|it">Italiano</option><option  value="es|ja">日本語</option><option  value="es|ko">한국어</option><option  value="es|lv">Latviešu valoda</option><option  value="es|lt">Lietuvių kalba</option><option  value="es|mk">Македонски јазик</option><option  value="es|ms">Bahasa Melayu</option><option  value="es|mt">Maltese</option><option  value="es|no">Norsk bokmål</option><option  value="es|fa">فارسی</option><option  value="es|pl">Polski</option><option  value="es|pt">Português</option><option  value="es|ro">Română</option><option  value="es|ru">Русский</option><option  value="es|sr">Српски језик</option><option  value="es|sk">Slovenčina</option><option  value="es|sl">Slovenščina</option><option  value="es|sw">Kiswahili</option><option  value="es|sv">Svenska</option><option  value="es|th">ไทย</option><option  value="es|tr">Türkçe</option><option  value="es|uk">Українська</option><option  value="es|ur">اردو</option><option  value="es|vi">Tiếng Việt</option><option  value="es|cy">Cymraeg</option><option  value="es|yi">יידיש</option></select></div></div></div>	<div
+    class="qx quix">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    
+    <div
+        class="qx-inner x11 frontend qx-type-page qx-item-2">
 
-### Jekyll Themes
+                
+         
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winuxwinfree/mfjwebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+  <div id='qx-section-99448' class='qx-section qx-section--stretch' >
+
+  
+  
+    
+  
+  <div class="qx-container">
+      <div class="qx-rows">
+           
+
+
+<div id='qx-row-48203' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-11204"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+            
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-6495' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-36110"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+	
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-joomla-module-762886"  
+   class="qx-element qx-element-joomla-mod-v2"  
+    
+>
+          
+
+<div style="border: 0px !important;">
+<div id="djslider-loader98" class="djslider-loader djslider-loader-default" data-animation='{"auto":"1","looponce":"0","transition":"easeInOutSine","css3transition":"cubic-bezier(0.445, 0.050, 0.550, 0.950)","duration":400,"delay":3400}' data-djslider='{"id":"98","slider_type":"2","slide_size":"1080","visible_slides":1,"direction":"left","show_buttons":"1","show_arrows":"1","preload":"800","css3":"1"}' tabindex="0">
+    <div id="djslider98" class="djslider djslider-default" style="height: 720px; width: 1080px;">
+        <div id="slider-container98" class="slider-container" >
+        	<ul id="slider98" class="djslider-in">
+          		          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/bttiekbhm8tbkagmne8z.png" alt="bttiekbhm8tbkagmne8z.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/dmtpqinfwfalurxgyl12.png" alt="dmtpqinfwfalurxgyl12.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/Fenix_OS_Trailer_Moment.jpg" alt="Fenix_OS_Trailer_Moment.jpg"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/gmkt5yourutzalmzrxhr.png" alt="gmkt5yourutzalmzrxhr.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/lq4bxprwtbrgeuvimkit.png" alt="lq4bxprwtbrgeuvimkit.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/sea2brl5bqkpp8eyh9cq.png" alt="sea2brl5bqkpp8eyh9cq.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/tqhggo9on7rzjc2yqsh6.png" alt="tqhggo9on7rzjc2yqsh6.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                          			<li style="margin: 0 0px 0px 0 !important; height: 720px; width: 1080px;">
+          					            											<img class="dj-image" src="/images/fondos/slider/zhaw1yfjsr5dcyd9afja.png" alt="zhaw1yfjsr5dcyd9afja.png"  style="width: 100%; height: auto;"/>
+																			
+					</li>
+                        	</ul>
+        </div>
+                <div id="navigation98" class="navigation-container" style="top: 5.5555555555556%; margin: 0 0.92592592592593%;">
+        	        	<img id="prev98" class="prev-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/prev.png" alt="Previous" tabindex="0" />
+			<img id="next98" class="next-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/next.png" alt="Next" tabindex="0" />
+									<img id="play98" class="play-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/play.png" alt="Play" tabindex="0" />
+			<img id="pause98" class="pause-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/pause.png" alt="Pause" tabindex="0" />
+			        </div>
+                    </div>
+</div>
+</div>
+<div class="djslider-end" style="clear: both" tabindex="0"></div>
+    
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>   
+
+
+<div 
+   id="qx-column-85112"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                                  <div class="qx-background-overlay qx-column-85112-background-overlay"></div>
+                    <div class="qx-elements-wrap">
+             
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-2971"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-scale-up;"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-primary' href=https://fenixlinux.com/comunidad    ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-ios-chatboxes-outline"></i> <span>COMUNIDAD  <br> </span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+                    
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-7975"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-scale-up;delay:100"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-light' href=https://www.youtube.com/channel/UCJlzAkI2q4qnG09QeyJ21fg?sub_confirmation=1 target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-social-youtube-outline"></i> <span>YOUTUBE</span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+                    
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-96120"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-scale-up;delay:150"   
+>
+                                    
+                
+                                                        
+                    <a class='qx-btn qx-btn-outline-primary' href=https://sourceforge.net/p/fenixlinux/activity/feed    ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-social-rss-outline"></i> <span>RSS</span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+                    
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-41426"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-scale-up;delay:200"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-light' href=https://www.facebook.com/sharer/sharer.php?u=https://sourceforge.net/projects/fenixlinux/&title=FenixOS%20on%20SourceForge target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-social-facebook-outline"></i> <span>Compartir en FACEBOOK </span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+                    
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-33511"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-scale-up;delay:250"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-light' href=https://twitter.com/share?url=https://sourceforge.net/projects/fenixlinux/&text=Download%20FenixOS%20on%20SourceForge%20for%20free%21%20 target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-social-twitter-outline"></i> <span>Compartir en TWITTER</span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+                    
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-7174"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-scale-up;delay:300"   
+>
+                                    
+                
+                                                        
+                    <a class='qx-btn qx-btn-outline-primary' href=https://sourceforge.net/projects/fenixlinux/postdownload    ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-ios-email-outline"></i> <span>Mantenme actualizado</span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+  
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-image-13222"  
+   class="qx-element qx-element-image-v2"  
+    
+>
+                          <a class='' href=https://distrowatch.com/dwres.php?resource=submit target='_blank'  ><img src='https://fenixlinux.com/images/AANEW/dwbanner.png' alt='' class='qx-img-fluid'  data-qx-img/></a>
+          
+              
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>  
+      </div>
+  </div>
+
+</div>
+   
+
+
+
+
+  <div id='qx-section-362' class='qx-section' >
+
+  
+  
+    
+  
+  <div class="qx-container">
+      <div class="qx-rows">
+           
+
+
+<div id='qx-row-5259' class='qx-row-wrap' >
+<div class='qx-row qx-row-align-start qx-no-gutters' >
+  
+      
+
+
+<div 
+   id="qx-column-366"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+            
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-8940' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-5641"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+	
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-heading-803536"  
+   class="qx-element qx-element-heading-v2"  
+   qx-scrollspy="cls:qx-animation-scale-down;"   
+>
+          <h2> <span> RASPBERRY </span> </h2>
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-834090"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-fade;"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-success' href=https://fenixlinux.com/descargas    ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-ios-information-outline"></i> <span>Ir a la sección de Raspberry</span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+    
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-7497"  
+   class="qx-element qx-element-button-v2"  
+    
+>
+                                    
+                
+                                                        
+                    <a class='qx-btn qx-btn-outline-secondary' href=https://youtu.be/Y1poBHlmZSU target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-social-youtube-outline"></i> <span>Fenixpi </span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+	
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-raw-html-76522"  
+   class="qx-element qx-raw-html-v2"  
+    
+>
+          <center><p style="font-size: 13px;">En los todos los vídeos se está empleando una Raspberry PI 4 de 2gb de ram, aunque se pueden usar otros modelos.
+<br>Una Raspberry es un mini ordenador que destaca por ser del tamaño de una tarjeta de crédito y su precio, pero no por su potencia. <br>A pesar de ello, con FenixPi se intenta exprimir su potencial para que puedas hacer casi todo sin tener que recurrir a un PC más potente. </p><p style="font-size: 8px;"></p>
+</center>
+    
+</div>
+</div> 
+     
+
+
+
+
+
+  
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-gallery-571274"  
+   class="qx-element qx-element-gallery-v2"  
+   qx-scrollspy="cls:qx-animation-slide-bottom-medium;"   
+>
+      <div class="qx-element-gallery__wrapper" data-qx-filter="">
+      
+                                
+            
+      <ul class="qx-gallery-media-wrapper qx-child-width-1-2@m qx-child-width-1-2@s qx-child-width-1-1  qx-grid-medium qx-flex-center " data-qx-lightbox="animation: slide" qx-grid>
+
+                                            
+                                        
+                                                                                                                              <li class="item-1  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/AANEW/2020-11-24_16-52-1.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Swiftjaro</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-2  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/2-jun/Selection_003-1.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Fenixpi Kylin </h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-3  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/Aslider/Screenshot from 2020-09-29 13-37-40.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Fenixpi Cinnamon</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-4  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/indeigogo/dmtpqinfwfalurxgyl12.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Fenixpi Cinnamon</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-5  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/indeigogo/tqhggo9on7rzjc2yqsh6.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Fenixpi Cinnamon</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-6  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/indeigogo/sea2brl5bqkpp8eyh9cq.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Fenixpi Cinnamon</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-7  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/fondos/slider/gmkt5yourutzalmzrxhr.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Beta Fenixpi KDE</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-8  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/8/4 (1).png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Beta Fenixpi KDE</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-9  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/AANEW/EnvNndBXUAA8-d_.jpeg' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Beta Fenixpi KDE</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                    </ul>      
+    </div>
+  
+</div>
+</div> 
+     
+    
+
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-text-60508"  
+   class="qx-element qx-element-text-v2"  
+    
+>
+      	    		<h2 style="text-align: center;"><b><u>FENIXPI XFCE</u></b></h2>
+    	
+    
+</div>
+</div> 
+     
+
+  
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-image-42330"  
+   class="qx-element qx-element-image-v2"  
+    
+>
+                          <img src='https://fenixlinux.com/images/AANEW/EoczYM-W8AAJ9Xt.jpeg' alt='' class='qx-img-fluid'  data-qx-img/>
+          
+              
+</div>
+</div> 
+     
+
+  
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-image-37221"  
+   class="qx-element qx-element-image-v2"  
+    
+>
+                          <img src='https://fenixlinux.com/images/AANEW/EoczYM4XIAE4wB2-1.jpeg' alt='' class='qx-img-fluid'  data-qx-img/>
+          
+              
+</div>
+</div> 
+     
+
+
+    
+
+
+
+  
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-media-carousel-491441"  
+   class="qx-element qx-element-media-carousel"  
+   qx-scrollspy="cls:qx-animation-fade;"   
+>
+        <div
+        id="media-carousel-qx-media-carousel-491441"
+        class="qx-element-media-carousel__wrapper qx-position-relative qx-visible-toggle "
+        qx-slider="sets: false"
+      >
+        <div class="qx-slider-container qx-light">
+          <ul
+            qx-height-match="target: > li; row: false"
+            class="qx-slider-items qx-child-width-1-1 qx-child-width-1-2@s qx-child-width-1-3@m qx-grid"
+          >
+                          
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/Screenshot from 2020-10-08 14-55-48.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/aiu0gedzetlpau8fysrr.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/no95.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/qwjugugnhpxaxfzavjn8.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/Captura de pantalla de 2020-06-08 19-25-37.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                
+                  <li class="qx-transition-toggle">
+                                                                
+                        
+
+                  </li>
+
+                                    </ul>
+
+        </div>
+                          <div class="qx-visible@s">
+            <a class="qx-position-center-left qx-hidden-hover qx-position-small" href="#" qx-slidenav-previous qx-slider-item="previous"></a>
+            <a class="qx-position-center-right qx-hidden-hover qx-position-small" href="#" qx-slidenav-next qx-slider-item="next"></a>
+          </div>
+        
+                          <ul class="qx-slider-nav qx-dotnav qx-flex-center qx-margin"></ul>
+        
+
+                            
+                 
+      </div>
+  
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-57117' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-13118"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-divider-62119"  
+   class="qx-element qx-element-divider-separator-v2"  
+    
+>
+                <span class="qx-divider-separator"></span>
+        
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-2514' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-5815"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+	
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-heading-153578"  
+   class="qx-element qx-element-heading-v2"  
+   qx-scrollspy="cls:qx-animation-scale-down;"   
+>
+          <h2> <span> PC  </span> </h2>
+    
+</div>
+</div> 
+     
+	
+	
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-animated-headline-69194"  
+   class="qx-element qx-element-animated-headline-v2"  
+    
+>
+  					<h4 class="qx-element-headline">
+				<div class="qx-element-headline--style-highlight qx-flex qx-flex-inline qx-flex-bottom rotating  rotate-1">
+					<span class="qx-element__before-text qx-element-headline-text-wrapper"></span>
+		  			
+		  								 
+					 
+				    <span class="qx-element-headline-dynamic-wrapper css-styles ">
+												  <b class="is-visible">KDE    </b>
+												  <b class=""> CINNAMON    </b>
+												  <b class="">     EN</b>
+												  <b class="">  DESARROLLO</b>
+										    </span>
+					
+					<span class="qx-element__after-text"></span>
+				</div>
+			</h4>
+		  	
+</div>
+</div> 
+     
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-14107"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-fade;"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-success' href=https://fenixlinux.com/index.php/pc    ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-laptop"></i> <span>Ir a la sección PC</span></div></a>
+        
+    
+</div>
+</div> 
+     
+
+
+    
+
+
+
+  
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-media-carousel-21650"  
+   class="qx-element qx-element-media-carousel"  
+   qx-scrollspy="cls:qx-animation-scale-down;"   
+>
+        <div
+        id="media-carousel-qx-media-carousel-21650"
+        class="qx-element-media-carousel__wrapper qx-position-relative qx-visible-toggle "
+        qx-slider="sets: false"
+      >
+        <div class="qx-slider-container qx-light">
+          <ul
+            qx-height-match="target: > li; row: false"
+            class="qx-slider-items qx-child-width-1-1 qx-child-width-1-2@s qx-child-width-1-2@m qx-grid"
+          >
+                          
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/bttiekbhm8tbkagmne8z.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/sea2brl5bqkpp8eyh9cq.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/dmtpqinfwfalurxgyl12.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+              
+                                                                                                
+                                                                                                  
+                  <li class="qx-transition-toggle">
+                                                                <figure><img src='https://fenixlinux.com/images/indeigogo/tqhggo9on7rzjc2yqsh6.png' alt='' class=''  data-qx-img/></figure>
+                        
+
+                  </li>
+
+                                    </ul>
+
+        </div>
+                          <div class="qx-visible@s">
+            <a class="qx-position-center-left qx-hidden-hover qx-position-small" href="#" qx-slidenav-previous qx-slider-item="previous"></a>
+            <a class="qx-position-center-right qx-hidden-hover qx-position-small" href="#" qx-slidenav-next qx-slider-item="next"></a>
+          </div>
+        
+                          <ul class="qx-slider-nav qx-dotnav qx-flex-center qx-margin"></ul>
+        
+
+                            
+                 
+      </div>
+  
+</div>
+</div> 
+     
+
+  
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-image-42228"  
+   class="qx-element qx-element-image-v2"  
+    
+>
+                <img src='https://fenixlinux.com/images/2-jun/Captura de pantalla de 2020-07-19 21-50-21.png' alt='' class='qx-img-fluid'  data-qx-img/>
+              
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-4113' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-66128"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+	
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-raw-html-90236"  
+   class="qx-element qx-raw-html-v2"  
+    
+>
+          <script>/**
+ *
+ * Add to bookmark
+ * Several tests are necessary in order for this "simple" action to work in most of the browsers
+ *
+ */
+
+// First, we define the element where the "Add to bookmark" action will trigger
+var triggerBookmark = $(".js-bookmark"); // It must be an `a` tag
+
+triggerBookmark.click(function() {
+	
+	if (window.sidebar && window.sidebar.addPanel) { // Firefox <23
+		
+		window.sidebar.addPanel(document.title,window.location.href,'');
+
+	} else if(window.external && ('AddFavorite' in window.external)) { // Internet Explorer
+
+		window.external.AddFavorite(location.href,document.title); 
+
+	} else if(window.opera && window.print || window.sidebar && ! (window.sidebar instanceof Node)) { // Opera <15 and Firefox >23
+		/**
+		 * For Firefox <23 and Opera <15, no need for JS to add to bookmarks
+		 * The only thing needed is a `title` and a `rel="sidebar"`
+		 * To ensure that the bookmarked URL doesn't have a complementary `#` from our trigger's href
+		 * we force the current URL
+		 */
+		triggerBookmark.attr('rel', 'sidebar').attr('title', document.title).attr('href', window.location.href);
+		return true;
+	
+	} else { // For the other browsers (mainly WebKit) we use a simple alert to inform users that they can add to bookmarks with ctrl+D/cmd+D
+		
+		alert('You can add this page to your bookmarks by pressing ' + (navigator.userAgent.toLowerCase().indexOf('mac') != - 1 ? 'Command/Cmd' : 'CTRL') + ' + D on your keyboard.');
+	
+	}
+	// If you have something in the `href` of your trigger
+	return false;
+});</script>
+    
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-42122' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-31141"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+
+    
+
+
+
+	
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-advanced-heading-3145"  
+   class="qx-element qx-element-advanced-heading-v2"  
+    
+>
+                  <div class="qx-element-advanced-heading__wrapper qx-animation-toggle qx-position-relative">
+                        
+            <div class="adv-heading-cont">
+                <h2> <span class="center-text">Posibles futuros proyectos</span>  </h2>
+            </div>
+        </div>
+        
+    
+</div>
+</div> 
+     
+
+
+
+
+
+  
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-gallery-81171"  
+   class="qx-element qx-element-gallery-v2"  
+   qx-scrollspy="cls:qx-animation-slide-bottom-medium;"   
+>
+      <div class="qx-element-gallery__wrapper" data-qx-filter="">
+      
+                                
+            
+      <ul class="qx-gallery-media-wrapper qx-child-width-1-2@m qx-child-width-1-2@s qx-child-width-1-1  qx-grid-medium qx-flex-center " data-qx-lightbox="animation: slide" qx-grid>
+
+                                            
+                                        
+                                                                                                                              <li class="item-1  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/Screenshot from 2020-11-04 00.37.09.png' alt='Preview' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Preview  ElementaryPI Catalina 20.10</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-2  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/whats new/unknown (2).png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Preview Fenixpi KDE</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-3  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/whats new/unknown.png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Preview Fenixpi KDE</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                                      
+                                        
+                                                                                                                              <li class="item-4  qx-transition-toggle">
+              <div class="qx-inline">
+                                  <figure class="qx-element-gallery__media qx-mb-0">
+                                          <img src='https://fenixlinux.com/images/whats new/unknown (1).png' alt='' class=''  data-qx-img/>
+                                      </figure>
+
+                                                                                                    
+                                        
+                                                                                  
+                                        
+                                      
+                        
+                    <div class="qx-overlay qx-overlay-default qx-position-cover qx-transition-fade"><div class="qx-position-center qx-overlay-content-wrapper qx-p-5 "><h3 class="qx-gallery-title">Preview Fenixpi KDE</h3></div></div>
+
+                  
+
+                              </div>
+            </li>
+                    </ul>      
+    </div>
+  
+</div>
+</div> 
+     
+
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-divider-153557"  
+   class="qx-element qx-element-divider-separator-v2"  
+    
+>
+                <span class="qx-divider-separator"></span>
+        
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-953619' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-123968"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-43103"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-slide-left;"   
+>
+                  
+                
+                                                        
+                    <a class='qx-btn qx-btn-secondary' href=https://sourceforge.net/projects/fenixlinux/ target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-ios-flame"></i> <span>SourceForge</span></div></a>
+        
+    
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>   
+
+
+<div 
+   id="qx-column-263970"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-9388"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-slide-top-small;"   
+>
+                                    
+                
+                                                        
+                    <a class='qx-btn qx-btn-outline-dark' href=https://bit.ly/2BNvINm target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-images"></i> <span>Capturas   </span></div></a>
+        
+    
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>   
+
+
+<div 
+   id="qx-column-343972"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-button-14138"  
+   class="qx-element qx-element-button-v2"  
+   qx-scrollspy="cls:qx-animation-slide-right-medium;"   
+>
+                                    
+                
+                                                        
+                    <a class='qx-btn qx-btn-outline-dark' href=https://fenixlinux.com/que-tiene-de-especial target='_blank'   ><div class="qx-element-button-wrapper qx-justify-content-center"><i class="qxio-information-circled"></i> <span>Saber mas</span></div></a>
+        
+    
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-589' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-4990"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+  
+ 
+
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-divider-62566"  
+   class="qx-element qx-element-divider-separator-v2"  
+    
+>
+                <span class="qx-divider-separator"></span>
+        
+</div>
+</div> 
+     
+
+	
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-raw-html-970"  
+   class="qx-element qx-raw-html-v2"  
+   qx-scrollspy="cls:qx-animation-slide-bottom;"   
+>
+          <center><p>Fenix OS es un sistema operativo que nace con el objetivo de que la gente que no prueba Linux porque piensa que es complicado le dé una oportunidad mediante interfaces que resulten familiares y con las que se sientan cómodas hasta que aprendan la gran cantidad de cosas que Linux tiene para ofrecerles. <br> También hay y habrán herramientas para facilitar su uso e interfaces Linuxeras con las que se intenta que las imitaciones pasen a un segundo plano.<br> </p></center>
+    
+</div>
+</div> 
+     
+
+
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-accordion-88121"  
+   class="qx-element qx-element-accordion-v2 qx-accordion-88121"  
+   qx-scrollspy="cls:qx-animation-slide-bottom-medium;"   
+>
+      <div class="qx-element-call-to-action__wrapper">
+                      <ul qx-accordion="multiple: false;collapsible:1" class="qx-accordion">
+                                            
+                                    
+            
+                        <li class="qx-open qx-element-accordion-item  item0">
+              <a class="qx-accordion-title" href="#">
+                                <span class="wrap-accordion-title"><font color=&quot;blue&quot;>¿Porqué elegir Fenix OS?</font></span>
+              </a>
+              <div class="qx-accordion-content" aria-hidden="false">
+                <p><p>Fenix OS es una distribución Linux, y por lo tanto tiene todas sus ventajas, que són:<br></p><ol><li>Tienes una cantidad inmensa de software libre y gratuito.</li><li>Al ser de código abierto las vulnerabilidades se corrigen mucho más rápido que cualquier otro sistema operativo, además el modo de gestionar los permisos es un sistema que todos deberían tener.&nbsp;</li><li>Es gratuito.</li><li>Facilidad de uso. Mucha gente piensa que Linux es difícil de utilizar. Con Fenix OS se pretende demostrar todo lo contrario.</li><li>Personalización. Esa es una de las mayores ventajas, y es que el sistema se puede adaptar al gusto de cada usuario. En Fenix OS queda más que demostrado.</li><li>Ideal para aprender. Linux va genial para trastear y jugar con el sistema operativo<span style="text-align: justify;">, ya que podemos modificar lo que queramos. A</span><span style="text-align: justify;">demás es perfecto para programar.</span></li><li style="">Robustez, rapidez y estabilidad. Es capaz hasta de ejecutarse en un a Raspberry (un mini PC del tamaño de una tarjeta de crédito), por lo que también será capaz de hacerlo en equipos antiguos y de bajos recursos.</li><li style="">Puedes seguir usándolo mientras&nbsp;se actualiza, no más esperas interminables.</li><li style="">Permite instalar uno o múltiples programas de forma desatendida mediante comandos. Una vez los domines instalar y quitar programas es un gozada. Además tiene tiendas en las que solo hay que pulsar un botón para instalarlos. Olvídate de buscar archivos en Internet, iniciar el asistente...</li></ol></p>
+              </div>
+            </li>
+                                              
+                                                              
+            
+                        <li class="qx-element-accordion-item  item1">
+              <a class="qx-accordion-title" href="#">
+                                <span class="wrap-accordion-title"><font color=&quot;blue&quot;>Mas acerca de Fenix OS</font> </span>
+              </a>
+              <div class="qx-accordion-content" hidden aria-hidden="true">
+                <p><p>-Fenix OS es una distribución con la que demostrar que con Linux se puede hacer lo mismo que con otros sistemas operativos. Trata de dar a conocer Linux y el software libre a la gente que está poco familiarizada y necesita un punto de partida, ya que ofrece una experiencia similar a los sistemas operativos más utilizados. </p><p>Es mucho más que su aspecto, poco a poco se irán incorporando herramientas sirvan para facilitar el uso de Linux. </p><p>-Fenix OS es un sistema libre y gratuito. </p><p>-El objetivo no es engañar a nadie para que crea que el sistema es Windows, Mac..., sino crear un entorno que resulte amigable y familiar, que sirva como base para empezar a&nbsp; aprender. Con ello se pretende que sirva como un entorno educativo.</p><p>-Otro de los objetivos es cambiar de una vez el concepto que tiene la mayoría de la gente sobre que Linux es difícil.</p><p>-El sistema está en fase beta, y aunque está construido sobre apuestas seguras para tener una base lo más sólida posible, solo debe instalarse para testeo, en&nbsp; &nbsp; caso contrario nadie se hace responsable de los daños que pueda ocasionar.</p><p>-Fenix OS contiene muchos temas e iconos que están bajo licencia GPL modificados por grayduck (en fenixpi) y por mi (androrama) para que se adapten mejor a la interfaz. Siempre se respetan las licencias de los autores y los créditos.&nbsp;<br></p><p> </p><p>-Fenix OS no tiene nada que ver con Microsoft<span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px;">®</span>&nbsp;o Apple<span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px;">®</span>, y no se pretende dañar su imagen.</p><p>-Si tu también adoras Linux y crees que hay algo que se puede mejorar puedes dejar tu opinión en fenixlinux.com/comunidad.</p><p>Gracias, que lo disfrutes!!!.</p><p><br></p><p> </p><p><style> .rotate{ width: 350px; height: 350px; border-radius: 45px; -webkit-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -o-transition-duration: 0.8s; transition-duration: 0.8s; -webkit-transition-property: -webkit-transform; -moz-transition-property: -moz-transform; -o-transition-property: -o-transform; transition-property: transform; overflow:hidden; } .rotate:hover { -webkit-transform:rotate(360deg); -moz-transform:rotate(360deg); -o-transform:rotate(360deg); } </style> <center><a href="https://fenixlinux.com/particles/"><img class=rotate img src="https://fenixlinux.com/images/photo_2020-05-22_23-50-21.jpg"</img></a></center></p></p>
+              </div>
+            </li>
+                              </ul>
+                </div>  
+  
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-76114' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-10117"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+            
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-5768' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-6969"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+            
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>   
+
+
+<div id='qx-row-61143' class='qx-row-wrap' >
+<div class='qx-row' >
+  
+      
+
+
+<div 
+   id="qx-column-87144"  
+   class="qx-column"  
+  >
+
+                <div class="qx-col-wrap">
+                    <div class="qx-elements-wrap">
+             
+
+    
+ 
+
+                
+        
+        
+
+
+<div class="qx-element-wrap">
+<div 
+   id="qx-social-icon-42555"  
+   class="qx-element qx-element-social-icon"  
+   qx-scrollspy="cls:qx-animation-slide-top;"   
+>
+          <div class="qx-social-icon-42555-wrapper">
+                        <ul class="qx-list-unstyled qx-inline">
+                                <li class="item-0 inline-item">
+                    
+                                                            
+                    <a 
+                        href="https://www.facebook.com/Fenix-OS-105770447831456"
+                        target="_self"
+                        rel="follow"
+                    >
+                                                                                    <i class="qxif-facebook"></i>
+                                                                        </a>
+                </li>
+                                <li class="item-1 inline-item">
+                    
+                                                            
+                    <a 
+                        href="https://discord.com/invite/cVFjzEn"
+                        target="_self"
+                        rel="follow"
+                    >
+                                                                                    <i class="qxif-discord"></i>
+                                                                        </a>
+                </li>
+                                <li class="item-2 inline-item">
+                    
+                                                            
+                    <a 
+                        href="https://twitter.com/fenixlinuxos"
+                        target="_self"
+                        rel="follow"
+                    >
+                                                                                    <i class="qxio-social-twitter"></i>
+                                                                        </a>
+                </li>
+                                <li class="item-3 inline-item">
+                    
+                                                            
+                    <a 
+                        href="https://www.youtube.com/channel/UCJlzAkI2q4qnG09QeyJ21fg/"
+                        target="_self"
+                        rel="follow"
+                    >
+                                                                                    <i class="qxio-social-youtube"></i>
+                                                                        </a>
+                </li>
+                            </ul>
+                    </div>
+    
+</div>
+</div> 
+    
+          </div>
+        </div>
+        
+</div>  
+</div>
+</div>  
+      </div>
+  </div>
+
+</div>
+   
+
+
+
+
+  <div id='qx-section-14221' class='qx-section qx-section--stretch' >
+
+  
+  
+    
+  
+  <div class="qx-container-fluid">
+      <div class="qx-rows">
+          
+      </div>
+  </div>
+
+</div>
+  
+            </div>
+</div>
+
+</div></main></div></div></div></section><section id="sp-bottom"><div class="container"><div class="container-inner"><div class="row"><div id="sp-bottom1" class="col-sm-col-sm-6 col-lg-12 "><div class="sp-column "><span class="sp-copyright"><center> © 2021 |  androrama RSM |  Fenix  |  SPAIN 
+
+</center></span></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="container-inner"><div class="row"><div id="sp-footer1" class="col-lg-6 "><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-email"><span class="fa fa-envelope" aria-hidden="true"></span> <a href="mailto:contact@fenixlinux.com">contact@fenixlinux.com</a></li></ul></div></div><div id="sp-footer2" class="col-lg-6 "><div class="sp-column "><ul class="social-icons"><li class="social-icon-facebook"><a target="_blank" href="https://www.facebook.com/Fenix-OS-105770447831456" aria-label="facebook"><span class="fa fa-facebook" aria-hidden="true"></span></a></li><li class="social-icon-twitter"><a target="_blank" href="https://twitter.com/fenixlinuxos" aria-label="twitter"><span class="fa fa-twitter" aria-hidden="true"></span></a></li><li><a target="_blank" href="https://www.youtube.com/channel/UCJlzAkI2q4qnG09QeyJ21fg/" aria-label="Youtube"><span class="fa fa-youtube" aria-hidden="true"></span></a></li><li class="social-icon-instagram"><a target="_blank" href="https://www.instagram.com/fenixlinux/" aria-label="Instagram"><span class="fa fa-instagram" aria-hidden="true"></span></a></li><li class="social-icon-custom"><a target="_blank" href="https://discord.com/invite/cVFjzEn"><span class="fa fa-comment" aria-hidden="true"></span></a></li></ul></div></div></div></div></div></footer>        </div>
+    </div>
+
+    <!-- Off Canvas Menu -->
+    <div class="offcanvas-overlay"></div>
+    <div class="offcanvas-menu">
+        <a href="#" class="close-offcanvas"><span class="fa fa-remove"></span></a>
+        <div class="offcanvas-inner">
+                            <div class="sp-module "><div class="sp-module-content"><ul class="menu">
+<li class="item-101 default current active"><a href="/" >Inicio</a></li><li class="item-110"><a href="/que-tiene-de-especial" >Funciones</a></li><li class="item-146"><a href="/pc" >PC</a></li><li class="item-148 menu-deeper menu-parent"><a href="/pi" >Pi<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-157"><a href="/pi/kde" >Plasmunity</a></li><li class="item-156"><a href="/pi/fenixmanjaro" >Swiftjaro</a></li><li class="item-162"><a href="/pi/swiftjaro-xp" >Swiftjaro XP</a></li><li class="item-160"><a href="https://fenixlinux.com/pi" >Mas</a></li></ul></li><li class="item-112"><a href="/roadmap" >Roadmap</a></li><li class="item-113"><a href="/changelog" >Changelog</a></li><li class="item-115"><a href="/super-guia" >Manual Linux</a></li><li class="item-116"><a href="/comunidad" >Comunidad</a></li><li class="item-150"><a href="/donar" >Donar</a></li></ul>
+</div></div>
+                    </div>
+    </div>
+
+    
+    
+    
+    <!-- Go to top -->
+            <a href="#" class="sp-scroll-up" aria-label="Scroll Up"><span class="fa fa-chevron-up" aria-hidden="true"></span></a>
+            </body>
+</html>
